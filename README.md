@@ -1,3 +1,0 @@
-# Clusterverse Frontend
-
-React project.
